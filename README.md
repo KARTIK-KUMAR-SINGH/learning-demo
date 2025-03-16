@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repositry.
 <br>
-Author-Kartik Kumar Singh
+Author-Kartik Kumar Singh(ECE)
